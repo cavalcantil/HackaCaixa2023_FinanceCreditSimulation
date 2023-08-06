@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4f3a51d2-d30c-4ffc-8060-a8bd444a8b5c" name="Changes" comment="updated with SwaggerUI" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/org/jboss/logmanager/jboss-logmanager-embedded/1.0.10/jboss-logmanager-embedded-1.0.10-sources.jar!/org/jboss/logmanager/LoggerNode.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="enabledProfiles">
+      <list>
+        <option value="native" />
+      </list>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="showPreview" value="true" />
+  </component>
+  <component name="ProjectId" id="2PC1ts2zRvp9MzJhpx9WOgS9ctx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/leo/Downloads/hackathon/c134002-caixa-hackathon-v2.1.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;GitIgnore&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="caixa.gov.br.simulador" />
+      <recent name="caixa.gov.b.simuador" />
+      <recent name="caixa.gov.br.c134002" />
+      <recent name="org.c134002" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="caixa.gov.br" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.c134002-api-sim-cred [./mvnw,compile...]">
+    <configuration name="ResultadoSimulacaoDTOTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="simulacao-credito-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="caixa.gov.br.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="caixa.gov.br" />
+      <option name="MAIN_CLASS_NAME" value="caixa.gov.br.ResultadoSimulacaoDTOTeste" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="simulacao-credito-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="caixa.gov.br.simulador.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="caixa.gov.br.simulador" />
+      <option name="MAIN_CLASS_NAME" value="caixa.gov.br.simulador.SimpleTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimulacaoResourceIntegrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="simulacao-credito-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="caixa.gov.br.simulador.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="caixa.gov.br.simulador" />
+      <option name="MAIN_CLASS_NAME" value="caixa.gov.br.simulador.SimulacaoResourceIntegrationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimulacaoResourceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="simulacao-credito-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="caixa.gov.br.simulador.v1.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="caixa.gov.br.simulador" />
+      <option name="MAIN_CLASS_NAME" value="caixa.gov.br.simulador.SimulacaoResourceTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimulacaoServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="simulacao-credito-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="caixa.gov.br.simulador.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="caixa.gov.br.simulador" />
+      <option name="MAIN_CLASS_NAME" value="caixa.gov.br.simulador.SimulacaoServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="caixademo-movie-db copy(v4)" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="caixademo-movie-db copy(v4)" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="c134002-api-sim-cred [./mvnw,compile...]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="quarkus:dev" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map>
+                <entry key="native" value="true" />
+              </map>
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.SimpleTest" />
+      <item itemvalue="JUnit.SimulacaoResourceIntegrationTest" />
+      <item itemvalue="JUnit.SimulacaoServiceTest" />
+      <item itemvalue="JUnit.ResultadoSimulacaoDTOTeste" />
+      <item itemvalue="JUnit.SimulacaoResourceTest" />
+      <item itemvalue="Maven.c134002-api-sim-cred [./mvnw,compile...]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SimulacaoServiceTest" />
+        <item itemvalue="JUnit.SimulacaoResourceIntegrationTest" />
+        <item itemvalue="JUnit.SimpleTest" />
+        <item itemvalue="JUnit.SimulacaoResourceTest" />
+        <item itemvalue="JUnit.ResultadoSimulacaoDTOTeste" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f3a51d2-d30c-4ffc-8060-a8bd444a8b5c" name="Changes" comment="" />
+      <created>1682946468717</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682946468717</updated>
+    </task>
+    <task id="LOCAL-00001" summary="updated readme.md file">
+      <created>1682955678977</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682955678977</updated>
+    </task>
+    <task id="LOCAL-00002" summary="updated readme.md file">
+      <created>1682956222779</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682956222779</updated>
+    </task>
+    <task id="LOCAL-00003" summary="updated with SwaggerUI">
+      <created>1683045751916</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683045751916</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="updated readme.md file" />
+    <MESSAGE value="updated with SwaggerUI" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated with SwaggerUI" />
+  </component>
+</project>
